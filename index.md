@@ -1,5 +1,5 @@
 ---
-Who is Aristotle?: Read below to find out!
+Who-is-Aristotle?: Read below to find out!
 ---
 "In the pursuit of knowledge and understanding, Aristotle espoused the notion that all human actions aim at some good. According to him, the highest good, the ultimate aim of human life, is eudaimonia - often translated as 'flourishing' or 'well-being.' Aristotle believed that achieving eudaimonia required the cultivation of virtues and the development of rationality.
 
